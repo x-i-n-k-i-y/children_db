@@ -5,7 +5,7 @@
 -- Dumped from database version 17.2
 -- Dumped by pg_dump version 17.2
 
--- Started on 2024-12-20 12:07:12
+-- Started on 2024-12-27 20:45:21
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -585,6 +585,11 @@ COPY public.group_history (history_id, group_id, age_range, date_from, date_to) 
 20	10	6	2024-12-20	\N
 21	11	6	2024-12-20	\N
 22	12	6	2024-12-20	\N
+23	1	2-4	2024-12-27	\N
+24	1	2-3	2024-12-27	\N
+25	2	2-3	2024-12-27	\N
+26	3	2-3	2024-12-27	\N
+27	4	2-3	2024-12-27	\N
 \.
 
 
@@ -595,10 +600,6 @@ COPY public.group_history (history_id, group_id, age_range, date_from, date_to) 
 --
 
 COPY public.group_tbl (group_id, group_name, age_range) FROM stdin;
-1	Ясли-1	2-3
-2	Ясли-1	2-3
-3	Ясли-1	2-3
-4	Ясли-1	2-3
 5	Средняя-1	4-5
 6	Средняя-2	4-5
 7	Средняя-3	4-5
@@ -607,6 +608,10 @@ COPY public.group_tbl (group_id, group_name, age_range) FROM stdin;
 10	Старшая-2	6
 11	Старшая-3	6
 12	Старшая-4	6
+1	Ясли-1	2-3
+2	Ясли-2	2-3
+3	Ясли-3	2-3
+4	Ясли-4	2-3
 \.
 
 
@@ -701,7 +706,7 @@ SELECT pg_catalog.setval('public.children_child_id_seq', 7, true);
 -- Name: group_history_history_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
 
-SELECT pg_catalog.setval('public.group_history_history_id_seq', 22, true);
+SELECT pg_catalog.setval('public.group_history_history_id_seq', 27, true);
 
 
 --
@@ -918,7 +923,7 @@ ALTER TABLE ONLY public.tariffs
     ADD CONSTRAINT tariffs_group_id_fkey FOREIGN KEY (group_id) REFERENCES public.group_tbl(group_id);
 
 
--- Completed on 2024-12-20 12:07:13
+-- Completed on 2024-12-27 20:45:21
 
 --
 -- PostgreSQL database dump complete
