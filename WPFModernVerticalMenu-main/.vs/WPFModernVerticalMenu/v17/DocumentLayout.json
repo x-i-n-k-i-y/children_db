@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\wpfmodernverticalmenu-main\\pages\\listgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\listgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\wpfmodernverticalmenu-main\\pages\\products.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\products.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\wpfmodernverticalmenu-main\\pages\\listgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\listgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\wpfmodernverticalmenu-main\\pages\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\wpfmodernverticalmenu-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListGroup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\ListGroup.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListGroup.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\ListGroup.xaml.cs",
+              "RelativeToolTip": "Pages\\ListGroup.xaml.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAYwNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:33:59.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListGroup.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\ListGroup.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListGroup.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\ListGroup.xaml",
+              "RelativeToolTip": "Pages\\ListGroup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T08:33:54.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\Products.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\Products.xaml.cs",
+              "RelativeToolTip": "Pages\\Products.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAMUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:06:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\Products.xaml",
+              "RelativeDocumentMoniker": "Pages\\Products.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\Pages\\Products.xaml",
+              "RelativeToolTip": "Pages\\Products.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T08:06:12.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\WPFModernVerticalMenu-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T08:05:19.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
